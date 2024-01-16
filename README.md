@@ -12,5 +12,8 @@ The full details of the data are available [here](https://coach-courses-us.s3.am
 ## Tools
 For this project, pgAdmin was used for the PostgreSQL database.
 ## Extra Resources
+Tableau Links:
+-[Customers by Continent](https://public.tableau.com/app/profile/suzan.diab/viz/RockbusterCustomersbyContinent/Sheet2?publish=yes) 
 
+- 
 
