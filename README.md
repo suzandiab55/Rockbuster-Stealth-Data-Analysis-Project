@@ -11,4 +11,6 @@ The data set comprises information on the following parameters:
 The full details of the data are available [here](https://coach-courses-us.s3.amazonaws.com/exercises/1054/62982/3fe3568293b6193da8bd91c37123d045/Data-Dictionary.pdf)
 ## Tools
 For this project, pgAdmin was used for the PostgreSQL database.
+## Extra Resources
+
 
