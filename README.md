@@ -7,6 +7,7 @@ The data set comprises information on the following parameters:
 - Inventory
 - Customers
 - Payments
+
 The full details of the data are available [here](
 ## Tools
 For this project, pgAdmin was used for the PostgreSQL database.
