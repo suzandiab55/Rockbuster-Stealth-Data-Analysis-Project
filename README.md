@@ -14,7 +14,5 @@ For this project, pgAdmin was used for the PostgreSQL database.
 ## Extra Resources
 Tableau Links:
 
--[Customers by Continent](https://public.tableau.com/app/profile/suzan.diab/viz/RockbusterCustomersbyContinent/Sheet2?publish=yes) 
-
-- 
+- [Customers by Continent](https://public.tableau.com/app/profile/suzan.diab/viz/RockbusterCustomersbyContinent/Sheet2?publish=yes) 
 
