@@ -1,2 +1,9 @@
-Here is a SQL query calculating descriptive statistics:
+Here is a SQL query calculating descriptive statistics for specific film ratings:
 
+SELECT
+COUNT(film_id) AS count_of_movies,
+AVG(rental_rate) AS average_movie_rental_rate,
+MAX(rental_duration) AS maximum_rental_duration,
+MIN(rental_duration) AS minimum_rental_duration,
+FROM film
+WHERE rating IN('PG', 'G')
