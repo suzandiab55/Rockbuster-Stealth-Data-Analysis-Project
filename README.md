@@ -1,1 +1,2 @@
-# SQL-Queries
+# Rockbuster Data Analysis
+## Objective 
