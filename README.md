@@ -14,5 +14,14 @@ For this project, pgAdmin was used for the PostgreSQL database.
 ## Extra Resources
 Tableau Links:
 
-- [Customers by Continent](https://public.tableau.com/app/profile/suzan.diab/viz/RockbusterCustomersbyContinent/Sheet2?publish=yes) 
+- [Customers by Continent](https://public.tableau.com/app/profile/suzan.diab/viz/RockbusterCustomersbyContinent/Sheet2?publish=yes)
+-  [Customers by Continent #2](https://public.tableau.com/app/profile/suzan.diab/viz/RockbusterCustomersbyContinentPieChart/Sheet3?publish=yes)
+-  [Top 10 Countries](https://public.tableau.com/app/profile/suzan.diab/viz/RockbusterTop10CountriesEd/Sheet4?publish=yes)
+-  [Top 10 Cities](https://public.tableau.com/app/profile/suzan.diab/viz/RockbusterTop10Cities/Sheet5?publish=yes)
+-  [Revenue Across Geographic Regions](https://public.tableau.com/app/profile/suzan.diab/viz/Revenueacrossgeographicregionsmap/She)
+-  [Top 10 Movies](https://public.tableau.com/app/profile/suzan.diab/viz/Top10Movies_17027600686060/Sheet9?publish=yes)
+-  [Bottom 10 Movies](https://public.tableau.com/app/profile/suzan.diab/viz/Bottom10Movies_17027610742450/Sheet10?publish=yes)
+-  [Top 5 Genres](https://public.tableau.com/app/profile/suzan.diab/viz/Top5genres_17027623884640/Sheet11?publish=yes)
+-  [Top 10 Countries by Sales](https://public.tableau.com/app/profile/suzan.diab/viz/Top10countriesbysales_17027631714470/Sheet12?publish=yes)
+-  [Bottom 10 Countries by Sales](https://public.tableau.com/app/profile/suzan.diab/viz/Bottom10countriesbysales/Sheet13?publish=yes)
 
